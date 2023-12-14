@@ -1,0 +1,10 @@
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\bin\Debug\Exercicio1.exe.config
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\bin\Debug\Exercicio1.exe
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\bin\Debug\Exercicio1.pdb
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\obj\Debug\Exercicio1.csproj.AssemblyReference.cache
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\obj\Debug\Exercicio1.Form1.resources
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\obj\Debug\Exercicio1.Properties.Resources.resources
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\obj\Debug\Exercicio1.csproj.GenerateResource.cache
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\obj\Debug\Exercicio1.exe
+D:\Users\ATILIO\Desktop\Esquema\Exercicio1\obj\Debug\Exercicio1.pdb
